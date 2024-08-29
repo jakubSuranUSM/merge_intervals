@@ -31,5 +31,7 @@ int main() {
         printf("[%d, %d] ", interval[0], interval[1]);
     }
     
+    printf("Hello world");
+
     return 0;
 }
